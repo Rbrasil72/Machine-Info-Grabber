@@ -2,7 +2,7 @@
 
 This script gathers the maximum information possible from a machine with multiple options to chose from or gather everything at once and saves the information on a txt file on the same directory the script is in
 
-(Haven't tested it on windows yet, only linux)
+(Only works on linux for now)
 
 ![image](https://github.com/Rbrasil72/Machine-Info-Grabber/assets/108822086/8bc90edb-c701-42ed-ac0f-b765a4a070d0)
 
