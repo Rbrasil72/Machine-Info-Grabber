@@ -1,2 +1,2 @@
 # Machine-Info-Grabber
-Gathers alot of machines information
+Gathers alot of information from the machine
